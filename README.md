@@ -17,13 +17,13 @@ Via my real world projects, I have gained practical knowledge in exploratory dat
 
 ## Certifications 🎓
 
-- Building Systems with the ChatGPT API 🛠️
+- [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/accomplishments/2003aad8-d252-4619-b610-cf08df703a91?usp=sharing) 🛠️
   
-- LangChain 📚
+- [LangChain](https://learn.deeplearning.ai/accomplishments/becab655-d679-45f2-a714-111e4accb4d5?usp=sharing) 📚
   
-- Knowledge Graphs for RAG 🌐
+- [Knowledge Graphs for RAG](https://learn.deeplearning.ai/accomplishments/1d276dd6-a381-4193-a982-3269e764c99d?usp=sharing) 🌐
   
-- Dataiku 📊
+- [Dataiku](https://verify.skilljar.com/c/muyv473deegb) 📊
 
 
 ## Contact 📞
@@ -33,7 +33,7 @@ Via my real world projects, I have gained practical knowledge in exploratory dat
 - **GitHub:** [RupinderSingh1313](https://github.com/RupinderSingh1313) 💻
   
 - **Twitter:** [CrySmmf](https://twitter.com/CrySmmf) 𝕏 
-- 
+  
 - **Email:** 1001rupindersingh@gmail.com 📧
   
 
