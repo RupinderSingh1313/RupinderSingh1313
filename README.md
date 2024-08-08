@@ -14,6 +14,7 @@ Via my real world projects, I have gained practical knowledge in exploratory dat
   
 - **Languages:** Fluent in English 🇺🇸, Hindi 🇮🇳, and Punjabi 🇮🇳
 
+
 ## Certifications 🎓
 
 - Building Systems with the ChatGPT API 🛠️
@@ -24,13 +25,12 @@ Via my real world projects, I have gained practical knowledge in exploratory dat
   
 - Dataiku 📊
 
-I am passionate about leveraging technology to solve complex problems and continuously seek opportunities to expand my skill set 🌱. Feel free to explore my projects and connect with me to discuss insights in data science and potential collaborations 🤝.
 
 ## Contact 📞
 
-- **LinkedIn:** [Rupinder Singh](https://www.linkedin.com/in/rupindersingh-ml/) 🌐
+- **LinkedIn:** [Rupinder Singh]((https://www.linkedin.com/in/rupinder--singh/)) 🌐
   
-- **GitHub:** [1001rupindersingh](https://github.com/1001rupindersingh) 💻
+- **GitHub:** [1001rupindersingh]((https://github.com/RupinderSingh1313)) 💻
   
 - **Email:** 1001rupindersingh@gmail.com 📧
   
