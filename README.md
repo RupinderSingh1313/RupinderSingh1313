@@ -28,10 +28,12 @@ Via my real world projects, I have gained practical knowledge in exploratory dat
 
 ## Contact 📞
 
-- **LinkedIn:** [Rupinder Singh]((https://www.linkedin.com/in/rupinder--singh/)) 🌐
+- **LinkedIn:** [Rupinder Singh](https://www.linkedin.com/in/rupinder--singh/) 🌐
   
-- **GitHub:** [1001rupindersingh]([(https://github.com/RupinderSingh1313)](https://github.com/RupinderSingh1313)) 💻
+- **GitHub:** [RupinderSingh1313](https://github.com/RupinderSingh1313) 💻
   
+- **Twitter:** [CrySmmf](https://twitter.com/CrySmmf) 𝕏 
+- 
 - **Email:** 1001rupindersingh@gmail.com 📧
   
 
