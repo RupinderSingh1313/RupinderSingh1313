@@ -1,6 +1,6 @@
 I am an aspiring Data Scientist with a Bachelor of Technology in Computer Science 🎓, complemented by hands-on experience in Machine Learning 🤖, Deep Learning 🧠, and Natural Language Processing 🗣️.
 
-During my internship, I gained practical knowledge in exploratory data analysis and the implementation of advanced machine learning models. I am proficient in Python programming 🐍 and skilled in utilizing libraries such as Pandas and NumPy for data manipulation and analysis. My expertise extends to working with Generative AI and Large Language Models, allowing me to explore innovative solutions in AI-driven applications 🌟.
+Via my real world projects, I have gained practical knowledge in exploratory data analysis and the implementation of advanced machine learning models. I am proficient in Python programming 🐍 and skilled in utilizing libraries such as Pandas and NumPy for data manipulation and analysis. My expertise extends to working with Generative AI and Large Language Models, allowing me to explore innovative solutions in AI-driven applications 🌟.
 
 ## Skills 🧠
 
