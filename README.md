@@ -30,7 +30,7 @@ Via my real world projects, I have gained practical knowledge in exploratory dat
 
 - **LinkedIn:** [Rupinder Singh]((https://www.linkedin.com/in/rupinder--singh/)) 🌐
   
-- **GitHub:** [1001rupindersingh]((https://github.com/RupinderSingh1313)) 💻
+- **GitHub:** [1001rupindersingh]([(https://github.com/RupinderSingh1313)](https://github.com/RupinderSingh1313)) 💻
   
 - **Email:** 1001rupindersingh@gmail.com 📧
   
