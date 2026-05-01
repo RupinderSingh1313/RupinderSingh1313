@@ -34,44 +34,6 @@ I build production-grade AI systems — not demos, not notebooks.
 `LoRA Fine-Tuning` `RAG Architecture` `Agentic Workflows`
 `LangGraph` `LangChain` `OCR`
 
-**MLOps & Infra**
-`FastAPI` `MLflow` `DagsHub` `Docker` `Docker Compose`
-`Apache Airflow` `Feast Feature Store` `Langfuse`
-`Evidently AI` `Prometheus` `Grafana`
-
-**Data**
-`PostgreSQL` `Qdrant` `ClickHouse`
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [Enterprise-Grade Agentic RAG System](https://github.com/RupinderSingh1313/enterprise-grade-agentic-RAG-system)
-
-> Fully local, zero-vendor-lock-in research retrieval over arXiv CS.AI papers.
-
-- **LangGraph** agentic workflow: guardrail validation → hybrid retrieval → LLM grading → adaptive query rewriting → grounded answer generation
-- **Hybrid search** on OpenSearch: BM25 + 1024-dim Jina embeddings via Reciprocal Rank Fusion
-- **Daily Airflow DAG** auto-ingests, parses PDFs with Docling, and upserts into the hybrid index
-- **13-container production stack**: FastAPI (REST + SSE), Gradio, Telegram bot, Langfuse v3 tracing, Redis caching
-- 100% local inference via **Ollama (Llama 3.2)** — zero API cost, zero data leakage
-
-`Python` `LangGraph` `OpenSearch` `FastAPI` `Airflow` `Ollama` `Jina` `Langfuse` `Docker`
-
----
-
-### 📈 [MarketMind — Stock Prediction & AI Market Reports](https://github.com/RupinderSingh1313/MarketMind)
-
-> Replaces manual equity research with a 4-agent LLM pipeline that generates analyst-quality reports on demand.
-
-- **4 specialized LLM agents**: Performance Analyst · Market Expert · Report Generator · Critic
-- **Qdrant semantic caching** at 95% similarity threshold — serves cached reports within 24h, cutting redundant LLM calls
-- **Transfer-learning LSTM**: S&P 500 parent model fine-tuned per-ticker with Feast feature store for train/serve consistency
-- **Full observability**: MLflow on DagsHub, Prometheus/Grafana, Evidently AI drift detection, auto-healing on missing models
-- Kubernetes manifests + Docker Compose for full reproducibility
-
-`Python` `PyTorch` `LangGraph` `MLflow` `FastAPI` `Qdrant` `Docker` `Evidently AI`
-
 ---
 
 ## 📜 Certifications
