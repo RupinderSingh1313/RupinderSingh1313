@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rupinder--singh/">LinkedIn</a> ·
   <a href="mailto:1001rupindersingh@gmail.com">Email</a> ·
+  <a href="https://www.instagram.com/rupinder____singh___/">Instagram</a> ·
   Ludhiana, Punjab, India
 </p>
 
