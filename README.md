@@ -2,9 +2,22 @@
 <h3 align="center">AI Engineer · GenAI · MLOps · Agentic Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupinder--singh/">LinkedIn</a> ·
-  <a href="mailto:1001rupindersingh@gmail.com">Email</a> ·
-  <a href="https://www.instagram.com/rupinder____singh___/">Instagram</a> ·
+  <a href="https://www.linkedin.com/in/rupinder--singh/">Let's connect on Linkedin</a>
+</p>
+
+<p align="center">
+  <a href="mailto:1001rupindersingh@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/rupinder____singh___/">6900+ followers on Instagram</a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCKVNVWKpW5XhwAbx2L7LSrw">Teaching Gen AI on YouTube</a>
+</p>
+
+<p align="center">
   Ludhiana, Punjab, India
 </p>
 
